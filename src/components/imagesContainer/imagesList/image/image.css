@@ -1,0 +1,24 @@
+.image {
+    width: 180px;
+    height: 200px;
+    object-fit: fill;
+    border-radius: 14px;
+    box-shadow: 0 0 4px grey;
+    margin: 10px;
+}
+
+.like {
+    left: -178px;
+    top: -28px;
+    position: relative;
+    bottom: 0;
+    z-index: 999;
+    color: white;
+}
+
+.text {
+    position: relative;
+    right: 171px;
+    top: -34px;
+    color: white;
+}
